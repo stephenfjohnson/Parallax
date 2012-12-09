@@ -47,9 +47,9 @@ html,body {
 	position: fixed;
 	top: 50%;
 	left: 50%;
-	width: 446px;
+	width: 900px;
 	margin-top: -41px;
-	margin-left: -223px;
+	margin-left: -446px;
 	z-index: 1;
 }
 
@@ -68,13 +68,13 @@ html,body {
 	position: relative;
 }
 
-.slideno {
+.sideno {
 	position: absolute;
 	bottom: 0px;
 	left: 0px;
 	font-size: 100px;
 	font-weight: bold;
-	color: rgba(255,255,255,0.3);
+	color:rgba(255,255,255,0.3);
 }
 
 .button {
